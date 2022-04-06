@@ -257,7 +257,7 @@ column-gap: 0;
 
 /* media queries */
 
-@media screen and (max-width: 1200px); {
+@media screen and (max-width: 1200px) {
    #clud-ethos {
       width: 65%;
       height: 1200px;
